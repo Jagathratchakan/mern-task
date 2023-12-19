@@ -125,4 +125,4 @@ Contributions to the project are welcome. If you have any improvements or bug fi
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email](jagathratchakans2020ai@gmail.com).
+For any questions or inquiries, please contact [jagathratchakans2020ai@gmail.com](jagathratchakans2020ai@gmail.com).
