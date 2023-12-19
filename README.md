@@ -45,14 +45,14 @@ This is a full stack web application built with the MERN (MongoDB, Express.js, R
 1. Clone the repository:
 
    ````bash
-   git clone https://github.com/your-username/room-booking-mern.git
+   git clone https://github.com/Jagathratchakan/mern-task.git
    ```
 
 2. Install the dependencies for both the server and client:
 
    ````bash
    # Install server dependencies
-   cd room-booking-mern/server
+   cd mern-task/server
    npm install
 
    # Install client dependencies
@@ -70,8 +70,8 @@ This is a full stack web application built with the MERN (MongoDB, Express.js, R
 
    ````bash
    # Start the server
-   cd room-booking-mern/server
-   npm start
+   cd mern-task/server
+   nodemon server
 
    # Start the client
    cd ../client
@@ -98,7 +98,7 @@ room-booking-mern/
     ├── public/         # Static files
     ├── src/            # React application code
     │   ├── components/ # Reusable components
-    │   ├── pages/      # Application pages
+    │   ├── Screens/    # Application Screens
     │   ├── services/   # API services
     │   ├── utils/      # Utility functions
     │   ├── assets/     # Images and other assets
@@ -114,9 +114,6 @@ room-booking-mern/
 
 Contributions to the project are welcome. If you have any improvements or bug fixes, feel free to open a pull request. Please make sure to follow the existing coding style and guidelines.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -128,4 +125,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email](mailto:your-email@example.com).
+For any questions or inquiries, please contact [your-email](jagathratchakans2020ai@gmail.com).
